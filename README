@@ -1,3 +1,7 @@
+Some scripts for parsing NGS data from:
+Functional Constraint Profiling of a Viral Protein Reveals Discordance of Evolutionary Conservation and Functionality
+http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005310
+
 script/Mapper1.py: Mapping and calling mutations
 	Input:	raw sequencing reads in fastq format
 		Fasta/flu3amp.fa
