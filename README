@@ -24,4 +24,5 @@ script/Mapper3.py: Generate a table only containing mutations with high confiden
 		tmp/mis
 		tmp/non
 
-AN UPDATED VERSION OF Mapper1.py AND Mapper2.py CAN BE FOUND IN REPOSITORY:lib240
+AN UPDATED VERSION OF Mapper1.py AND Mapper2.py CAN BE FOUND IN REPOSITORY:
+https://github.com/wchnicholas/lib240
